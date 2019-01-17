@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Выберите предмет</string>
+    <string name="group_name">Выберете группу</string>
+    <string name="journal">Тема</string>
+</resources>
